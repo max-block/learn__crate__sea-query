@@ -1,0 +1,9 @@
+[package]
+name = "learn"
+version = "0.1.0"
+edition = "2021"
+
+
+
+[dependencies]
+sea-query = "0.25.2"
